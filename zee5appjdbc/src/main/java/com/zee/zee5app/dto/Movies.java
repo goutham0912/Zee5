@@ -37,6 +37,7 @@ public Movies()
 		
 	
 		private List<String> allowed_locations;
+	//category
 	private String category;
 
 }
